@@ -60,3 +60,9 @@ No | Model | Accuracy | Precision | Recall | F1-score |
 5	|LGBM	|0.627907	|0.630481	|0.627907	|0.627359
 6	|KNN	|0.495017	|0.560663	|0.495017	|0.512409
 7	|ADA	|0.306755	|0.438135	|0.306755	|0.331874
+
+<br>As base XGBoost obtained the best result, parameter tuning is then performed to increase its classifying capability
+<br>Here are the results after parameter tuning:
+Model | Accuracy | Precision | Recall | F1-score |
+--- | --- | --- | --- |--- |--- |
+XGBoost	|0.66	|0.66	|0.66	|0.66
