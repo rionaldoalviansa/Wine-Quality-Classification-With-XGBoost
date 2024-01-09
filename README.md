@@ -18,13 +18,14 @@ DATASETS
 =================================================================================================================================
 The dataset was obtained from the following link:
 <br>https://archive.ics.uci.edu/dataset/186/wine+quality
-<br>There are 
+<br>Some examples of the independent variables are:
 - fixed acidity
 - volatile acidity
 - residual sugar
 - chlorides
 - density
 - sulphates, etc.
+  
 <br>There are 4898 rows in this dataset.
 
 
