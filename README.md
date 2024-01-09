@@ -51,4 +51,11 @@ MODELLING EVALUATION
 After comparing multiple machine learning models, here are the result:
 No | Model | Accuracy | Precision | Recall | F1-score |
 --- | --- | --- | --- |--- |--- |
-Seconds | 301 | 283 | 290 | 286 | 289 |
+0	|Decision Tree	|0.566999	|0.594079	|0.566999	|0.576733
+1	|RandomForest	|0.655592	|0.656794	|0.655592	|0.655646
+2	|XGBoost	0.673311	|0.670562	|0.673311	|0.669137
+3	|LogisticRegression	|0.349945	|0.472822	|0.349945	|0.375686
+4	|CatBoost	|0.625692	|0.626649	|0.625692	|0.625857
+5	|LGBM	|0.627907	|0.630481	|0.627907	|0.627359
+6	|KNN	|0.495017	|0.560663	|0.495017	|0.512409
+7	|ADA	|0.306755	|0.438135	|0.306755	|0.331874
