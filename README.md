@@ -66,3 +66,10 @@ No | Model | Accuracy | Precision | Recall | F1-score |
 Model | Accuracy | Precision | Recall | F1-score |
 --- | --- | --- | --- |--- |
 XGBoost	|0.66	|0.66	|0.66	|0.66 |
+
+
+CONCLUSION
+=================================================================================================================================
+Although base XGBoost was able to obtain the best result among its peers, its classifying capability was not improved from the parameter tuning process.
+<br>I analyzed that the lack of classification performance from the model might be cause to the the absence of strongly correlated independent variable with the target feature.
+<br>Further improvement is potentially achievable by more in-depth data cleansing.
