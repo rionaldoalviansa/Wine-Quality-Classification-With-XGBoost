@@ -64,5 +64,5 @@ No | Model | Accuracy | Precision | Recall | F1-score |
 <br>As base XGBoost obtained the best result, parameter tuning is then performed to increase its classifying capability
 <br>Here are the results after parameter tuning:
 Model | Accuracy | Precision | Recall | F1-score |
---- | --- | --- | --- |--- |--- |
-XGBoost	|0.66	|0.66	|0.66	|0.66
+--- | --- | --- | --- |--- |
+XGBoost	|0.66	|0.66	|0.66	|0.66 |
