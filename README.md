@@ -49,6 +49,6 @@ Multiple preprocessing steps are performed for the dataset, which includes:
 MODELLING EVALUATION
 =================================================================================================================================
 After comparing multiple machine learning models, here are the result:
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+No | Model | Accuracy | Precision | Recall | F1-score |
+--- | --- | --- | --- |--- |--- |
+Seconds | 301 | 283 | 290 | 286 | 289 |
